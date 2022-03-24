@@ -1,4 +1,4 @@
-# React redux todo app
+# React redux Toolkit todo app
 
 Source code for React redux todo app YouTube tutorial. Includes
 
